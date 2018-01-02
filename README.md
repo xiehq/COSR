@@ -23,32 +23,32 @@ And compared with a pediatric head phantom:
    
    - Navigate your MATLAB to the CSRDenoising folder
    
-   - run 'Step1_setup_CSR_denoising.m'
+   - run `Step1_setup_CSR_denoising.m`
    
-   - run 'Step2_sparsecoding_denoising_2D.m' for 2D image denoising test
+   - run `Step2_sparsecoding_denoising_2D.m` for 2D image denoising test
    
-   - run 'Step3_sparsecoding_denoising_3D.m' for 3D image denoising test
+   - run `Step3_sparsecoding_denoising_3D.m` for 3D image denoising test
    
-If it doesn't work
+If it does not work
    
    - Make sure a compiler is set up in your MATLAB. run `mex -setup`. If a 
      compiler is not set up, make sure you download one (some are free)
-     and run 'mex -setup' again.
+     and run `mex -setup` again.
    
-   - Read 'spams-matlab-v2.6\HOW_TO_INSTALL.txt' and modify the 'spams-matlab-v2.6\compile_spams_csrdenoising.m' file 
+   - Read `spams-matlab-v2.6\HOW_TO_INSTALL.txt` and modify the `spams-matlab-v2.6\compile_spams_csrdenoising.m` file 
      according to your current OS.
 
 ## Change parameter settings of the CSR denoising
 
-   - Some basic settings can be changed right inside the 'Step2_sparsecoding_denoising_2D.m' 
-     and 'Step3_sparsecoding_denoising_3D.m' files.
+   - Some basic settings can be changed right inside the `Step2_sparsecoding_denoising_2D.m` 
+     and `Step3_sparsecoding_denoising_3D.m` files.
      
-   - More settings are in: 'CSR\sparsecoding_denoising_2D_paramSettings.m' and 
-     'CSR\sparsecoding_denoising_3D_paramSettings.m'
+   - More settings are in: `CSR\sparsecoding_denoising_2D_paramSettings.m` and 
+     `CSR\sparsecoding_denoising_3D_paramSettings.m`
      
    - Please refer to our Medical Physics paper for details of these paramters
    
-   - Paramters related to the dictinary learning and OMP tools can be found inside: 'spams-matlab-v2.6\doc_spams_2.6.pdf'
+   - Paramters related to the dictinary learning and OMP tools can be found inside: `spams-matlab-v2.6\doc_spams_2.6.pdf`
 
 ## Licensing
 
@@ -66,7 +66,7 @@ xiehuiqiao[@]gmail.com
 
 If you use TIGRE in any publications, please reference the following papers:
 
-**[Content-oriented sparse representation (CSR)][3] denoising in CT images**
+**[Content-oriented sparse representation (CSR) denoising in CT images][3]**
 *Huiqiao Xie, Nadja Kadom, Xiangyang Tang*
 **SPIE Medical Imaging 2018, Houston, Texas, United States, 10 - 15 February 2018**
 
