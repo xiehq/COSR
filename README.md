@@ -9,11 +9,11 @@ It is free to use, distribute, modify and share the package; the only requiremen
 
 The CSR denoising method compared to the original SR method and others with a water phantom:
 
-![water phantom](https://imgur.com/94OqOiS)
+![water phantom](https://i.imgur.com/94OqOiS.png)
 
 And compared with a pediatric head phantom:
 
-![pediatric head phantom](https://imgur.com/UhadrNE)
+![pediatric head phantom](https://i.imgur.com/UhadrNE.jpg)
 
 ## How to install and run the demo codes
 
