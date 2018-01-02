@@ -3,7 +3,7 @@ Content-oriented Sparse Representation (CSR) Denoising in CT Images with the Abi
 
 This is a demostration MATLAB code package for Content-oriented Sparse Representation (CSR) Denoising in CT Images. 
 The CSR denoising method can effectively preserve the noise texture and image edges while reducing the strength of CT image noises. 
-It is free to use, distribute, modify and share the package; the only requirement is proper referencing to the authors.
+It is free to use, distribute, modify and share the package for research and personal use; the only requirement is proper referencing to the authors.
 
 ## Some result images
 
@@ -50,15 +50,9 @@ If it does not work
    
    - Paramters related to the dictinary learning and OMP tools can be found inside: `spams-matlab-v2.6\doc_spams_2.6.pdf`
 
-## Licensing
-
-This CSRDenoising code package is released under the BSD License, meaning you can use and modify 
-the software freely in any case, but you **must** give attribution to the original authors.
-For more information, read the license file or the [BSD License Definition][2].
-
 ## Contact
 
-If you want to contact us for other reasons than an issue with the tool, please send us an email to
+If you want to contact us for other reasons, please send us an email to
 
 xiehuiqiao[@]gmail.com
 
@@ -84,7 +78,7 @@ This CSR denoising demo code package uses mexCombinePatches, mexExtractPatches, 
 
 
 [1]: https://github.com/xiehq/CSRDenoising/issues
-[2]: http://www.linfo.org/bsdlicense.html
+[2]: http://xxx.license.html
 [3]: 
 [4]: 
 [5]: http://www.jmlr.org/papers/volume11/mairal10a/mairal10a.pdf
