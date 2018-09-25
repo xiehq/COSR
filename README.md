@@ -15,7 +15,7 @@ The COSR denoising method compared to the original SR method and others with a w
 
 And compared with a pediatric head image \(see [4] for details\):
 
-![pediatric head image](https://raw.githubusercontent.com/xiehq/COSR/tree/master/figures/denoising_compare_Anon17998_slice2_20180727.jpg)
+![pediatric head image](https://raw.githubusercontent.com/xiehq/COSR/master/figures/denoising_compare_Anon17998_slice2_20180727.jpg)
 
 ## How to install and run the demo codes
 
