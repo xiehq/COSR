@@ -69,7 +69,7 @@ If you use COSR in any publications, please reference the following papers:
 **SPIE Medical Imaging 2018, Houston, Texas, United States, 10 - 15 February 2018**
 [Presentation][3], [Proceeding][8]
 
-**[Content-oriented Sparse Representation (COSR) Denoising in CT Images with the Ability of Texture and Edge Preserving][4]**
+**[Content‐oriented Sparse Representation (COSR) for CT Denoising with Preservation of Texture and Edge][4]**
 *Huiqiao Xie, Tianye Niu, Shaojie Tang, Xiaofeng Yang, Nadja Kadom, Xiangyang Tang*
 *Medical Physics, 2018, Accepted Author Manuscript*
 
