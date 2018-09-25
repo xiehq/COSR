@@ -11,11 +11,11 @@ The COSR denoising method can effectively preserve the noise texture and image e
 
 The COSR denoising method compared to the original SR method and others with a water phantom:
 
-![water phantom](https://i.imgur.com/94OqOiS.png)
+![water phantom](https://github.com/xiehq/COSR/tree/master/figures/img_compare_STND_Gauss_SPIE.jpg)
 
-And compared with a pediatric head phantom:
+And compared with a pediatric head image \(see [4] for details\):
 
-![pediatric head phantom](https://i.imgur.com/UhadrNE.jpg)
+![pediatric head image](https://github.com/xiehq/COSR/tree/master/figures/denoising_compare_Anon17998_slice2_20180727.jpg)
 
 ## How to install and run the demo codes
 
@@ -87,7 +87,7 @@ SPAMS v2.6 is enclosed with this COSR denoising demo.
 
 
 [1]: https://github.com/xiehq/COSR/issues
-[2]: http://fsf.org/
+[2]: https://www.gnu.org/licenses/gpl-3.0.en.html
 [3]: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10573/1057328/Content-oriented-sparse-representation-COSR-denoising-in-CT-images/10.1117/12.2293417.short?SSO=1
 [4]: https://doi.org/10.1002/mp.13189
 [5]: http://www.jmlr.org/papers/volume11/mairal10a/mairal10a.pdf
