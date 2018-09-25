@@ -64,14 +64,14 @@ xiehuiqiao[@]gmail.com
 
 If you use COSR in any publications, please reference the following papers:
 
+**[Content‐oriented Sparse Representation (COSR) for CT Denoising with Preservation of Texture and Edge][4]**
+*Huiqiao Xie, Tianye Niu, Shaojie Tang, Xiaofeng Yang, Nadja Kadom, Xiangyang Tang*
+*Medical Physics, 2018, Accepted Author Manuscript*
+
 **Content-oriented sparse representation (COSR) denoising in CT images**
 *Huiqiao Xie, Nadja Kadom, Xiangyang Tang*
 **SPIE Medical Imaging 2018, Houston, Texas, United States, 10 - 15 February 2018**
 [Presentation][3], [Proceeding][8]
-
-**[Content‐oriented Sparse Representation (COSR) for CT Denoising with Preservation of Texture and Edge][4]**
-*Huiqiao Xie, Tianye Niu, Shaojie Tang, Xiaofeng Yang, Nadja Kadom, Xiangyang Tang*
-*Medical Physics, 2018, Accepted Author Manuscript*
 
 ## References:
 
