@@ -13,7 +13,7 @@ The COSR denoising method compared to the original SR method and others with a w
 
 ![water phantom](https://raw.githubusercontent.com/xiehq/COSR/master/figures/img_compare_STND_Gauss_SPIE.jpg)
 
-And compared with a pediatric head image \(see [4] for details\):
+And compared with a pediatric head image \(see [our paper][4] for details\):
 
 ![pediatric head image](https://raw.githubusercontent.com/xiehq/COSR/master/figures/denoising_compare_Anon17998_slice2_20180727.jpg)
 
